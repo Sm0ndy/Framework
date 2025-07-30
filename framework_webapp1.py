@@ -1,5 +1,5 @@
 Sheet: Foglio1
-[95 rows x 8 columns]
+
 Column names: |Macro-phase|Phase|Sub-phase|Deliverables|Responsibile Roles|Accountable Roles|Timing|Suggested Date
 0|Kick Off project|Kick Off project|Target finalization|NaN|NaN|NaN|NaN|NaN
 1|Kick Off project|Kick Off project|Lesson learned|NaN|NaN|NaN|NaN|NaN
